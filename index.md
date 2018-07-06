@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Redey Tech-Support
 
-You can use the [editor on GitHub](https://github.com/Noritoak/Redey.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is Tech-Support page for Redey
+Redey技术支持网站
 
 ### Markdown
 

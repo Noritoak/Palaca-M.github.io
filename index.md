@@ -1,36 +1,23 @@
 ## Redey Tech-Support
 
 This is Tech-Support page for Redey
+
 Redey技术支持网站
 
-### Markdown
+![300x300bb 1](https://user-images.githubusercontent.com/40522568/42355426-a86eff6a-80ff-11e8-8d8a-8c0cc8702e6f.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![300x300bb 2](https://user-images.githubusercontent.com/40522568/42355427-a89abbb4-80ff-11e8-88f7-6907eaeffb32.jpg)
 
-```markdown
-Syntax highlighted code block
+![300x300bb](https://user-images.githubusercontent.com/40522568/42355428-a8ce83e0-80ff-11e8-8ee2-12ed0556fd82.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+### Tech-Support Contact（E-mail）
+Noritoak@outlook.com
 
-- Bulleted
-- List
+### 客服联系方式（邮箱）
+Noritoak@outlook.com
 
-1. Numbered
-2. List
+### Tech-Support Contact（Phone）
+020-87567286
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Noritoak/Redey.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 客服联系电话（电话）
+020-87567286

@@ -5,10 +5,10 @@ This is Tech-Support page for Palaca
 Palaca技术支持网站
 
 ### Tech-Support Contact（E-mail）
-2102746441@qq.com
+Noritoak@outlook.com
 
 ### 客服联系方式（邮箱）
-2102746441@qq.com
+Noritoak@outlook.com
 
 ### Tech-Support Contact（Phone）
 020-87266186
